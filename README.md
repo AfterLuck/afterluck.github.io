@@ -1,2 +1,2 @@
-# afterluck.github.io
-bzzzz
+# afterluck заголовок
+bzzzz описание первого сайта
