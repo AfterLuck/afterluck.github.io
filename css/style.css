@@ -1,0 +1,23 @@
+
+.top-menu{
+	width: 100%;
+	opacity: .8;
+	background-color: gray;
+	height: 50px;
+	position: fixed;
+	left: 0;
+	top: 0;
+}
+
+h1 {
+ background-color: brown;
+}
+
+#user-id-label{
+color: darkgreen;
+}
+
+.red-font{
+	color: coral;
+	background-color: cornsilk;
+}
